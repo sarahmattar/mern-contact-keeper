@@ -1,5 +1,5 @@
 # mern-contact-keeper
-This is a simple contact keeper app built from scratch using the MERN stack. It is a tutorial app from Brad Traversy's UDEMY course, [Modern React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/). 
+This is a simple contact keeper app built from scratch using the MERN stack. It is a tutorial app from Brad Traversy's UDEMY course, [Modern React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/). While I have had bits and pieces of experience will the technologies listed below, this app tutorial has taught me a lot about how to create an app from scratch, and gave me a blank state to learn more about how to properly implement React hooks and context. 
 
 ### Technologies and APIs Used
 
@@ -18,11 +18,9 @@ React/React-Router - a fully interactive front end designed to make use of hooks
 2. the registration and authentication of users, and 
 3. a system of alerts to notify the user when something has gone wrong. 
 
-This has taught me a lot about how to create an app from scratch, and gave me a blank state to learn more about how to properly implement React hooks and context. 
-
 ### Instructions for Installation
 
 Installing the application requires Node.js and Nodemon to be installed. 
 
-The 'npm run dev' script will allow you to launch the server and client via Concurrently. 
+The `npm run dev` script will allow you to launch the server and client via Concurrently. 
 
