@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sarahmattar:Lanst3n!@sandbox-1-cyeta.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
