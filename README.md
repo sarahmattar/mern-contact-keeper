@@ -7,6 +7,8 @@ While I have had bits and pieces of experience will the technologies listed belo
 
 MongoDB Cloud Atlas - a NoSQL database storage solution
 
+Mongoose - a conduit for connecting to MongoDB and creating schemas for data
+
 Node.js - a Javascript based runtime
 
 Express - custom creation and serving of API endpoints
