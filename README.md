@@ -13,12 +13,14 @@ Express - custom creation and serving of API endpoints
 
 Axios - HTTP requests to custom API endpoints
 
+JSON Web Tokens, Bcrypt - the creation and assignment of a web token to a user upon registration or login. 
+
 Concurrently - a framework which allows a client side application (React) and a server side application (Node) to run in tandem with one another for development purposes. 
 
 React/React-Router - a fully interactive front end designed to make use of hooks and context. Three separate React Contexts have been created for: 
 
   1. Accessing the contacts API
-  2. Registering and Authenticating a User
+  2. Registering & Authenticating a User
   3. A system of alerts to notify the user when something has gone wrong 
 
 ### Instructions for Installation
