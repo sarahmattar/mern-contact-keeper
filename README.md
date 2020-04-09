@@ -5,21 +5,21 @@ While I have had bits and pieces of experience will the technologies listed belo
 
 ### Technologies and APIs Used
 
-MongoDB Cloud Atlas - a NoSQL database storage solution
+[MongoDB Cloud Atlas](https://www.mongodb.com/cloud/atlas) - a NoSQL database storage solution
 
-Mongoose - a conduit for connecting to MongoDB and creating schemas for data
+[Mongoose](https://mongoosejs.com/) - a conduit for connecting to MongoDB and creating schemas for data
 
-Node.js - a Javascript based runtime
+[Node.js](https://nodejs.org/) - a Javascript based runtime
 
-Express - custom creation and serving of API endpoints
+[Express](https://expressjs.com/) - custom creation and serving of API endpoints
 
-Axios - HTTP requests to custom API endpoints
+[Axios](https://github.com/axios/axios) - HTTP requests to custom API endpoints
 
-JSON Web Tokens, Bcrypt - the creation and assignment of a web token to a user upon registration or login. 
+[JSON Web Tokens](https://jwt.io/), Bcrypt - the creation and assignment of a web token to a user upon registration or login. 
 
-Concurrently - a framework which allows a client side application (React) and a server side application (Node) to run in tandem with one another for development purposes. 
+[Concurrently](https://www.npmjs.com/package/concurrently) - a framework which allows a client side application (React) and a server side application (Node) to run in tandem with one another for development purposes. 
 
-React/React-Router - a fully interactive front end designed to make use of hooks and context. Three separate React Contexts have been created for: 
+[React](https://reactjs.org/)/[React-Router](https://www.npmjs.com/package/react-router) - a fully interactive front end designed to make use of hooks and context. Three separate React Contexts have been created for: 
 
   1. Accessing the contacts API
   2. Registering & Authenticating a User
@@ -27,7 +27,7 @@ React/React-Router - a fully interactive front end designed to make use of hooks
 
 ### Instructions for Installation
 
-Installing the application requires Node.js and Nodemon to be installed. 
+Installing the application requires Node.js and Nodemon to be installed. To launch the server and client via Concurrently: 
 
-The `npm run dev` script will allow you to launch the server and client via Concurrently. 
+`npm run dev` 
 
