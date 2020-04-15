@@ -1,5 +1,5 @@
 # mern-contact-keeper
-This is a simple contact keeper app built from scratch using the MERN stack. It is a tutorial app from Brad Traversy's UDEMY course, [Modern React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/). 
+This is a simple contact keeper app built from scratch using the MERN stack. It is a coursework app from Brad Traversy's UDEMY course, [Modern React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/). 
 
 While I have had bits and pieces of experience will the technologies listed below, this app tutorial has taught me a lot about how to create an app from scratch, and gave the opportunity to learn more about how to properly implement Hooks and Context with React. 
 
